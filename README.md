@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Hello+iam;AYaZ+Alee+Whatsapp+Bot;Creater" alt="Typing SVG" /></a>
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Hello;welcome+to+my+profile" alt="Typing SVG" /></a>
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668 ;k428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm AYaZ Alee</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://telegra.ph/file/d7720dc3b52fda5235518.jpg">
