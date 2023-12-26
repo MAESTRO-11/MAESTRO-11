@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20views&color=0e75b6&style=flat" alt="maestro-11" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nobita 11" target="blank"><img src="https://img.shields.io/twitter/follow/nobita 11?logo=twitter&style=for-the-badge" alt="nobita 11" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NobitaEditx" target="blank"><img src="https://img.shields.io/twitter/follow/nobita 11?logo=twitter&style=for-the-badge" alt="nobita 11" /></a> </p>
 
 - 🔭 I’m currently working on **Graphics Design**
 
